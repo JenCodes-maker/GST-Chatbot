@@ -1,4 +1,4 @@
-🧾 Smart GST Chatbot
+**🧾 Smart GST Chatbot**
 
 An AI-powered GST assistant designed to simplify GST-related tasks. The application can recommend HSN/SAC codes, predict GST rates from product descriptions and images, extract invoice details using OCR, and validate GSTIN numbers through a user-friendly web interface.
 
